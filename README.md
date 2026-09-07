@@ -1,50 +1,85 @@
-# 👾 Tanvexar
+# 👾 Tanu Chanaliya
 
-🛡️ Red Team Learner | Security Researcher  
-💻 CTF Player | Exploit Enthusiast  
+### Penetration Testing | VAPT | Security Research
 
----
-
-## ⚡ About Me
-
-- 🔍 Focused on **Manual Penetration Testing**
-- 🧠 Practicing **Offensive Security & Red Team Methodologies**
-- 🏴‍☠️ Solving CTF Challenges and Vulnerability Labs
-- ⚔️ Exploring **Privilege Escalation & Exploitation Techniques**
+Cybersecurity practitioner focused on penetration testing, web application security, vulnerability assessment, and offensive security.
 
 ---
 
-## 🔧 Tools I Work With
+## 🛡️ About Me
 
-- Nmap
-- Burp Suite
-- Metasploit
-- Linux
-- Wireshark
-- Gobuster
-- Netcat
+- 🔍 Focused on **Manual Penetration Testing & Security Testing**
+- 🌐 Practicing **Web Application Security & OWASP Top 10**
+- 🔎 Performing **Reconnaissance, Enumeration & Vulnerability Assessment**
+- ⚔️ Exploring **Exploitation & Privilege Escalation Techniques**
+- 🏴‍☠️ Practicing through **CTF Challenges & Security Labs**
+- 🧪 Interested in **Offensive Security & Red Team Methodologies**
+
+---
+
+## 🔧 Security Tools
+
+- **Burp Suite**
+- **Nmap**
+- **Metasploit**
+- **SQLmap**
+- **Nessus**
+- **Acunetix**
+- **Nikto**
+- **Gobuster**
+- **Wireshark**
+- **Netcat**
+- **Linux**
 
 ---
 
 ## 🧠 Security Focus
 
-- Manual Web Application Testing
-- Network Enumeration & Exploitation
-- Privilege Escalation Techniques
-- CTF Labs & Realistic Attack Scenarios
+- Web Application Penetration Testing
+- Vulnerability Assessment
+- OWASP Top 10 Security Testing
+- Reconnaissance & Enumeration
+- Manual Security Testing
+- Vulnerability Validation
+- Network Security Testing
+- Exploitation Techniques
+- Privilege Escalation
+- CTF & Security Labs
 
 ---
 
-## 🎯 Current Goal
+## 💻 Programming & Scripting
 
-Becoming a **Professional Red Team Operator** and mastering offensive security.
+- Python
+- C
+- C++
+- HTML
+- CSS
+- JavaScript
 
 ---
 
-## 🕶️ Hacker Tagline
+## 🎯 Current Focus
 
-**Infiltrate | Escalate | Dominate**
+Continuously improving practical skills in:
+
+- Penetration Testing
+- Web Application Security
+- Offensive Security
+- Security Research
+- Red Team Methodologies
 
 ---
 
-⚡ Alias: **0xTanvexar**
+## 🌐 Connect With Me
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/tanvexar/
+- 🌐 **Portfolio:** https://0xtanvexar.pages.dev
+- 🐙 **GitHub:** https://github.com/Tanvexar
+- 🏴‍☠️ **TryHackMe:** https://tryhackme.com/p/0xTanvexar
+
+---
+
+### ⚡ Alias
+
+**0xTanvexar**
