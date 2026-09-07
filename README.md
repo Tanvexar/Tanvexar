@@ -73,15 +73,19 @@ Cybersecurity practitioner focused on penetration testing, web application secur
 
 ---
 
-## 📊 GitHub Stats
+---
 
-<div align="center">
+## 🧪 Security Research & Hands-on Practice
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanvexar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+- 🔍 Manual Web Application Security Testing
+- 🌐 OWASP Top 10 Security Testing
+- 🔎 Reconnaissance & Enumeration
+- ⚔️ Vulnerability Discovery & Validation
+- 🐧 Linux Enumeration & Privilege Escalation
+- 🏴‍☠️ CTF Challenges & Security Labs
+- 🧰 Practical usage of Burp Suite, Nmap, Metasploit, Gobuster & Wireshark
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvexar&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+---
 
 ---
 
@@ -89,7 +93,7 @@ Cybersecurity practitioner focused on penetration testing, web application secur
 
 <div align="center">
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/0xTanvexar.png)](https://tryhackme.com/p/0xTanvexar)
+
 
 ### Hands-on practice in
 
