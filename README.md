@@ -77,7 +77,7 @@ Cybersecurity practitioner focused on penetration testing, web application secur
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanvexar&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanvexar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvexar&layout=compact&theme=tokyonight&hide_border=true)
 
