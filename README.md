@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanu%20Chanaliya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvexar/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0xTanvexar-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://0xtanvexar.pages.dev)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-0xTanvexar-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xTanvexar)
-[![MyPath](https://img.shields.io/badge/TryHackMe-0xTanvexar-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)]([https://pentest-1t0.pages.dev/])
+[![MyPath](https://img.shields.io/badge/MyPath-0xTanvexar-7cf5ff?style=for-the-badge&logo=tryhackme&logoColor=white)]([https://pentest-1t0.pages.dev/])
 
 </div>
 
